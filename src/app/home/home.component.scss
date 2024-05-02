@@ -1,0 +1,23 @@
+.top{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  background-color: rgb(214, 213, 213);
+  height: 50px;
+  align-items: center;
+  display: flex;
+  border: 1px solid;
+  border-radius: 7px;
+  box-shadow: 3px 3px 10px #272727;
+}
+
+.titulo{
+  position: relative;
+  margin-left: 10px;
+}
+
+.logo{
+  height: 38px;
+  width: 100px;
+  margin-left: 15px;
+}
+

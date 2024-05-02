@@ -1,0 +1,48 @@
+.opcoes{
+  width: 220px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1%;
+  background-color: rgb(214, 213, 213);
+  box-shadow: 3px 3px 10px #272727;
+  border: 1px solid;
+  border-radius: 3px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.cebi{
+  width: 60px;
+  height: 25px;
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom:5%;
+  margin-left: 23px;
+  border: 1px solid;
+  border-radius: 3px;
+  box-shadow: 1px 1px 5px #272727;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.cebi:hover{
+  background-color: #bbbbbb;
+}
+
+.webiss{
+    width: 60px;
+    height: 25px;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom:5%;
+    margin-left: 35px;
+    border: 1px solid;
+    border-radius: 3px;
+    box-shadow: 1px 1px 5px #272727;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.webiss:hover{
+  background-color: #bbbbbb;
+}
